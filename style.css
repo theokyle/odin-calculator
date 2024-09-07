@@ -7,6 +7,10 @@
     background-color: lightblue;
 }
 
+.number {
+    background-color: orange;
+}
+
 .screen {
     border-style: solid;
     background-color: lightgray;
